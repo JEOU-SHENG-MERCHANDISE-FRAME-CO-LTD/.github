@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://josam.com.tw/#organization",
+  "name": "久盛商品陳列架股份有限公司",
+  "legalName": "JEOU-SHENG MERCHANDISE-FRAME Co., Ltd.",
+  "alternateName": ["JOSAM", "久盛", "久盛陳列架"],
+  "url": "https://josam.com.tw/",
+  "logo": "https://josam.com.tw/assets/josam_logo_navy.png",
+  "image": "https://josam.com.tw/assets/hero_hall.jpg",
+  "foundingDate": "1990",
+  "description": "久盛 JOSAM 自 1990 年起的台灣彰化貨架工廠，一條龍自動化智慧製造：超市貨架、倉儲物料架、工業鈑金 OEM/ODM、垂直升降自動倉儲 VLM。三座廠區 34,366 m²，工廠直營、品質一致、準時交付。",
+  "email": "sales@josam.com.tw",
+  "telephone": "+886-4-7613756",
+  "faxNumber": "+886-4-7629915",
+  "taxID": "89553784",
+  "duns": "65-852-8294",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "鹿科路6號",
+    "addressLocality": "鹿港鎮",
+    "addressRegion": "彰化縣",
+    "postalCode": "505",
+    "addressCountry": "TW"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 24.0697,
+    "longitude": 120.3917
+  },
+  "hasMap": "https://maps.app.goo.gl/9aAgbbohTYfmX94G6",
+  "areaServed": ["TW", "US", "JP"],
+  "knowsAbout": [
+    "超市貨架",
+    "倉儲物料架",
+    "工業鈑金 OEM/ODM",
+    "垂直升降自動倉儲 VLM",
+    "雷射切割",
+    "機器人焊接",
+    "粉體烤漆"
+  ],
+  "makesOffer": [
+    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "超市貨架 Gondola Shelving" } },
+    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "倉儲物料架 Storage / Warehouse Racks" } },
+    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "工業鈑金 OEM/ODM Industrial Sheet-Metal" } },
+    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "垂直升降自動倉儲 Vertical Lift Module (VLM)" } }
+  ],
+  "sameAs": [
+    "https://www.jsdisplay.com.tw/",
+    "https://www.facebook.com/Josamdisplay/",
+    "https://www.instagram.com/josamrack/",
+    "https://www.youtube.com/@josamshelves",
+    "https://www.tiktok.com/@josam_rack",
+    "https://github.com/JEOU-SHENG-MERCHANDISE-FRAME-CO-LTD"
+  ]
+}
