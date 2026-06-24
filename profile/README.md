@@ -7,11 +7,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/vlm_bay.jpg" alt="久盛 JOSAM 垂直升降自動倉儲 / JOSAM vertical lift module" width="100%">
-</p>
-
-<p align="center">
-  <img src="./assets/josam_logo_navy.png" alt="JOSAM 久盛 logo" width="220">
+  <img src="./assets/josam-gray-banner.png" alt="久盛商品陳列架股份有限公司 JOSAM｜JEOU-SHENG MERCHANDISE-FRAME Co., Ltd." width="100%">
 </p>
 
 <h1 align="center">久盛商品陳列架股份有限公司 · JOSAM</h1>
@@ -75,6 +71,31 @@ JOSAM (JEOU-SHENG MERCHANDISE-FRAME Co., Ltd.), founded in **1990** in Lukang, C
 | 統一編號 Tax ID | 89553784 ｜ D-U-N-S® Number：65-852-8294 |
 | 服務地區 Markets | 台灣 TW · 美國 US · 日本 JP |
 | 官方網站 Website | https://josam.com.tw |
+
+---
+
+## 常見問題 · FAQ
+
+**Q：久盛（JOSAM）是做什麼的？**
+A：久盛商品陳列架股份有限公司（JEOU-SHENG MERCHANDISE-FRAME Co., Ltd.）是台灣彰化鹿港的金屬貨架工廠，成立於 1990 年，生產超市貨架、倉儲物料架、工業鈑金 OEM/ODM 與垂直升降自動倉儲（VLM），並提供客製化代工。
+
+**Q：久盛的英文名稱是什麼？**
+A：JEOU-SHENG MERCHANDISE-FRAME Co., Ltd.，品牌名為 JOSAM。
+
+**Q：久盛的工廠在哪裡？**
+A：總部與工廠位於台灣彰化縣鹿港鎮鹿科路 6 號（郵遞區號 505），共三座廠區、總面積約 34,366 m²。
+
+**Q：久盛提供 OEM／ODM 客製嗎？有 MOQ 限制嗎？**
+A：有專屬研發部門提供 OEM／ODM 客製方案，無 MOQ 最低訂量限制。
+
+**Q：久盛的製造能力有哪些？**
+A：一條龍自動化製程：磁浮光纖雷射切割、四軸切管、Salvagnini／AMADA 折彎、NCT 沖孔、TIG／MIG／鋁焊機器人焊接、粉體烤漆（最大 L5500 × W600 × H1800 mm），並有自有物流車隊與現場組裝服務。
+
+**Q：久盛服務哪些市場與客戶？**
+A：客戶涵蓋全台便利商店、藥局連鎖、寵物通路與汽車零組件產業，並外銷美國、日本。
+
+**Q：如何聯絡久盛？**
+A：電話 +886-4-7613756、傳真 +886-4-7629915、Email sales@josam.com.tw、LINE @josam，官方網站 https://josam.com.tw。
 
 ---
 
