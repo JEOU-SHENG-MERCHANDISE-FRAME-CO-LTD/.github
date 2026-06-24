@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero_hall.jpg" alt="久盛 JOSAM 廠房 / JOSAM factory hall" width="100%">
+  <img src="./assets/vlm_bay.jpg" alt="久盛 JOSAM 垂直升降自動倉儲 / JOSAM vertical lift module" width="100%">
 </p>
 
 <p align="center">
